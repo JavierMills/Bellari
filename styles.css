@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+
+}
+body{
+    font-size: 100%;
+    background: linear-gradient(68.15deg, #2F2325 16.62%, #8E5D52 85.61%);
+}
+.header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 24px;
+
+}
+.header-img{
+    height: 72px;
+}
+.header-img:hover{
+    transform: scale(1.35, 1.35);
+}
+.header-nav {
+    display: flex;
+    gap: 30px;
+}
+.header-menu{
+    font-family: 'Righteous', sans-serif;
+    color: #FFF2E7;
+    font-weight: 400;
+    font-size: 18px;
+
+}
+
+.header-menu:hover{
+    transform: scale(1.20, 1.20);
+}
+.main{
+    margin-bottom: 48px;
+    border-top: 0.4px solid #FFF2E7;
+}
+.section-one-main{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+.section-one-main-div{
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+
+}
+.section-one-titulo{
+    font-family: 'Righteous', sans-serif;
+    font-weight: 400;
+    font-size: 80px;   
+    color: #FFF2E7;
+
+}
+.section-one-subtitulo{
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    color: #FFF2E7;
+}
+.section-one-button{
+    background-color: #ECD6C4;
+    border-radius: 10px;
+    width: 180px;
+    height: 40px;
+   border: none;
+   box-shadow: 4px 5px 4px rgba(0,0,0, 0.25);
+   font-weight: 400;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 14px;
+   color: #2F2325;
+
+}
+.section-one-button:hover{
+    transform: scale(1.20, 1.20);
+    
+}
+.section-one-img{
+    height: 430px;
+}
+.section-two-main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 24px;
+    margin-top: 45px;
+}
+.section-two-title{
+    border-top: 0.4px solid #FFF2E7;
+    padding-top: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    color: #FFF2E7;
+    margin-bottom: 16px;
+}
+.section-two-parrafo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+    color: #ECD6C4;
+}
+.footer{
+    padding: 32px;
+    border-top: 0.4px solid #FFF2E7;
+
+}
+.footer-img{
+    height: 48px;
+    display: block;
+    margin: 0 auto;
+
+}
