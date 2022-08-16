@@ -1,0 +1,70 @@
+{
+    "CreditoEnGarantia":[
+        
+    {
+        "id": 2451,
+        "Fecha_Relacion": "BX03",
+        "Conc": 688761,
+        "Credito": 39786117,
+        "Garantia": "BANCOMEXT/SANTANDER FINAN MXP 70%",
+        "Buc": "",
+        "Razon_Social": "ALFREDO VALENCIA DIAZ",
+        "Moneda_Gar": "Pesos",
+        "Valor_Gatia": 20000000,
+        "Fecha_Gtia": "2015-10-12",
+        "Subprod": "0591 PLAN PYME SANTA",
+        "Moneda_Cred":"Peso Mexicano",
+        "Apertura_Credito": "2015-10-12",
+        "Sit":"Cancel",
+        "Concedido": 520000,
+        "Insoluto": 8633300,
+        "Porciento_Gar": ".9",
+        "Etiq": "BX02",
+        "Acciones_sobre_credito":""
+      },
+      {
+        "id": 2454,
+        "Fecha_Relacion": "BX03",
+        "Conc": 688764,
+        "Credito": 39786117,
+        "Garantia": "BANCOMEXT/SANTANDER FINAN MXP 70%",
+        "Buc": 3455433,
+        "Razon_Social": "ALFREDO VALENCIA DIAZ",
+        "Mondneda_Gar": "Pesos",
+        "Valor_Gatia": 20000000,
+        "Fecha_Gtia": "2015-10-12",
+        "Subprod": "0591 PLAN PYME SANTA",
+        "Moneda_Cred":"Peso Mexicano",
+        "Apertura_Credito": "2015-10-12",
+        "Sit":"Cancel",
+        "Concedido": 520000,
+        "Insoluto": 8633300,
+        "Porciento_Gar": ".9",
+        "Etiq": "BX02",
+        "Acciones_sobre_credito":""
+      },
+      {
+        "id": 2453,
+        "Fecha_Relacion": "BX03",
+        "Conc": 688761,
+        "Credito": 39786117,
+        "Garantia": "BANCOMEXT/SANTANDER FINAN MXP 70%",
+        "Buc": 4746362,
+        "Razon_Social": "ALFREDO VALENCIA DIAZ",
+        "Mondneda_Gar": "Pesos",
+        "Valor_Gatia": 20000000,
+        "Fecha_Gtia": "2015-10-12",
+        "Subprod": "0591 PLAN PYME SANTA",
+        "Moneda_Cred":"Peso Mexicano",
+        "Apertura_Credito": "2015-10-12",
+        "Sit":"Cancel",
+        "Concedido": 520000,
+        "Insoluto": 8633300,
+        "Porciento_Gar": ".9",
+        "Etiq": "BX02",
+        "Acciones_sobre_credito":""
+      }
+     
+  ]
+    
+  }
